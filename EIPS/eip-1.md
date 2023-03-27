@@ -1,5 +1,5 @@
 ---
-eip: 1
+eip: 1123
 title: EIP Purpose and Guidelines
 status: Living
 type: Meta
